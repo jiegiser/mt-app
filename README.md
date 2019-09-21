@@ -21,7 +21,13 @@ $ npm run generate
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
-
 ### 截图
 
 ![在这里插入图片描述](./img/index.png)
+
+![在这里插入图片描述](./img/info1.png)
+![在这里插入图片描述](./img/info2.png)
+![在这里插入图片描述](./img/info3.png)
+![在这里插入图片描述](./img/info4.png)
+![在这里插入图片描述](./img/info5.png)
+![在这里插入图片描述](./img/info6.png)
